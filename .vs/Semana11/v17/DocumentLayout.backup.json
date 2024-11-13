@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\MVC Visual\\Semana11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\migrations\\20241113013948_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\migrations\\20241113013948_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|solutionrelative:semana11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9C5251C-80C6-4EE5-B37C-077F790FC8BD}|Semana11\\Semana11.csproj|d:\\mvc visual\\semana11\\semana11\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,19 +70,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241112215656_v3_ invoice.cs",
-              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
-              "RelativeDocumentMoniker": "Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
-              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
-              "RelativeToolTip": "Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
+              "DocumentIndex": 0,
+              "Title": "20241113013948_v4.cs",
+              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241113013948_v4.cs",
+              "RelativeDocumentMoniker": "Semana11\\Migrations\\20241113013948_v4.cs",
+              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241113013948_v4.cs",
+              "RelativeToolTip": "Semana11\\Migrations\\20241113013948_v4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:56:56.883Z",
+              "WhenOpened": "2024-11-13T01:39:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Detail.cs",
+              "RelativeDocumentMoniker": "Semana11\\Models\\Detail.cs",
+              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Detail.cs",
+              "RelativeToolTip": "Semana11\\Models\\Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:29:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceContext.cs",
+              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\InvoiceContext.cs",
+              "RelativeDocumentMoniker": "Semana11\\Models\\InvoiceContext.cs",
+              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\InvoiceContext.cs",
+              "RelativeToolTip": "Semana11\\Models\\InvoiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:59:17.078Z",
               "EditorCaption": ""
             },
             {
@@ -85,7 +123,7 @@
               "RelativeDocumentMoniker": "Semana11\\Models\\Invoice.cs",
               "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Invoice.cs",
               "RelativeToolTip": "Semana11\\Models\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T21:48:55.613Z",
               "EditorCaption": ""
@@ -93,32 +131,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InvoiceContext.cs",
-              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\InvoiceContext.cs",
-              "RelativeDocumentMoniker": "Semana11\\Models\\InvoiceContext.cs",
-              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\InvoiceContext.cs",
-              "RelativeToolTip": "Semana11\\Models\\InvoiceContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T21:59:17.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Semana11\\Models\\Customer.cs",
-              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Customer.cs",
-              "RelativeToolTip": "Semana11\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:44:08.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Semana11\\Models\\Product.cs",
@@ -131,20 +143,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Semana11\\Models\\Customer.cs",
+              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Models\\Customer.cs",
+              "RelativeToolTip": "Semana11\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:44:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Semana11\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Semana11\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T22:50:22.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "20241112215656_v3_ invoice.cs",
+              "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
+              "RelativeDocumentMoniker": "Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
+              "ToolTip": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
+              "RelativeToolTip": "Semana11\\Migrations\\20241112215656_v3_ invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:56:56.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Semana11\\Controllers\\CustomersController.cs",
@@ -152,12 +188,11 @@
               "RelativeToolTip": "Semana11\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAswEgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T23:03:05.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T23:03:05.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InvoicesController.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Controllers\\InvoicesController.cs",
               "RelativeDocumentMoniker": "Semana11\\Controllers\\InvoicesController.cs",
@@ -165,12 +200,11 @@
               "RelativeToolTip": "Semana11\\Controllers\\InvoicesController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:58:35.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T21:58:35.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20241105225933_v2 create database.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241105225933_v2 create database.cs",
               "RelativeDocumentMoniker": "Semana11\\Migrations\\20241105225933_v2 create database.cs",
@@ -182,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Program.cs",
               "RelativeDocumentMoniker": "Semana11\\Program.cs",
@@ -194,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "20241105232430_v3 create database.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241105232430_v3 create database.cs",
               "RelativeDocumentMoniker": "Semana11\\Migrations\\20241105232430_v3 create database.cs",
@@ -206,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Semana11.csproj",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Semana11.csproj",
               "RelativeDocumentMoniker": "Semana11\\Semana11.csproj",
@@ -218,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20241105223747_v1 create database.cs",
               "DocumentMoniker": "D:\\MVC Visual\\Semana11\\Semana11\\Migrations\\20241105223747_v1 create database.cs",
               "RelativeDocumentMoniker": "Semana11\\Migrations\\20241105223747_v1 create database.cs",
